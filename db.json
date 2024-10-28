@@ -1,0 +1,43 @@
+{
+  "teacher": [
+    {
+      "nombre": "Luis",
+      "apellido": "Guisado",
+      "materiales": [
+        {
+          "nombre_asig": "HTML desde Cero"
+        },
+        {
+          "nombre_asig": "JScript Avanzado"
+        }
+      ],
+      "id": "12fe"
+    },
+    {
+      "id": "322d",
+      "nombre": "Willia",
+      "apellido": "Guisado",
+      "materiales": [
+        {
+          "nombre_asig": "CSS desde Cero"
+        },
+        {
+          "nombre_asig": "React.Js Avanzado"
+        }
+      ]
+    },
+    {
+      "id": "7c5f",
+      "nombre": "Nector",
+      "apellido": "Rosabal Fonseca",
+      "materiales": [
+        {
+          "nombre_asig": "Arquitectura 1"
+        },
+        {
+          "nombre_asig": "Software, Operador de Micro IV"
+        }
+      ]
+    }
+  ]  
+}
